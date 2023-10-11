@@ -1,0 +1,15 @@
+//Avatar component styles
+.avatar{
+ width: 24px;
+ height: 24px;
+ border-radius: 50%;
+ max-width: 100%;
+ box-sizing: border-box;
+ background: #6B42EE;
+ color: white;
+ text-transform: uppercase;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ font-weight: bold;
+}
