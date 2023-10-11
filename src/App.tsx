@@ -10,8 +10,8 @@ function App() {
 
   const chatAssignedTo: Recruiter = {
     name: 'Juliana Roberts',
-    picture: 'hola'
-    // picture: 'https://picsum.photos/50'
+    // picture: 'invalid url'
+    picture: 'https://picsum.photos/50'
   }
 
   return (
